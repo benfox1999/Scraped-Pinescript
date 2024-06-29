@@ -15,7 +15,7 @@ Just download the files and unzip the folder.
 
 ## Usage
 
-Edit the file location of main.py file to read them.
+Edit the file location of the json you want to read and run the main.py file to print them.
 
 
 ## License
